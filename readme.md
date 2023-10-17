@@ -2,7 +2,7 @@
 
 Java API padrão Rest com deploy em serviço de nuvem.
 
-Desafio de código final do bootcamp Backend Java feito pela Dio/Santander.
+Parte do bootcamp Backend Java feito pela Dio/Santander.
 
 ---------------
 
