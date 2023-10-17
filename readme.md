@@ -10,6 +10,7 @@ Desafio de código final do bootcamp Backend Java feito pela Dio/Santander.
 - Spring boot 3
 - Spring initializer
 - Gradle
+- OpenAPI Documentation (antigo Swagger)
 - JPA
 - H2 database
 - Railway com PostgreSQL
