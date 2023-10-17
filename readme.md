@@ -5,6 +5,13 @@ Java API padrão Rest com deploy em serviço de nuvem.
 Desafio de código final do bootcamp Backend Java feito pela Dio/Santander.
 
 ---------------
+
+### Link da API publicada: [Clique Aqui](https://rodhis-java-api.up.railway.app/swagger-ui/index.html)
+
+Obs: Esta API ficará publicada por tempo limitado, enquanto for usada como portfólio pessoal.
+
+-----------------------
+
 ### Tecnologias utilizadas:
 
 - Spring boot 3
